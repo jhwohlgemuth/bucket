@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">PowerShell Prelude</title><desc id="desc">PowerShell Prelude project banner with a command prompt motif.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#102a43"/><stop offset="1" stop-color="#174f78"/></linearGradient></defs>
+  <rect width="1200" height="630" fill="url(#bg)"/><path d="M0 505 1200 180v450H0z" fill="#0c1e30" opacity=".55"/>
+  <g transform="translate(90 135)"><rect width="330" height="250" rx="24" fill="#071521" stroke="#69b7ff" stroke-width="8"/><path d="m72 72 80 54-80 54" fill="none" stroke="#69b7ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="18"/><path d="M172 184h88" stroke="#fff" stroke-linecap="round" stroke-width="18"/></g>
+  <text x="475" y="245" fill="#fff" font-family="system-ui,sans-serif" font-size="80" font-weight="800">PowerShell</text>
+  <text x="475" y="340" fill="#69b7ff" font-family="system-ui,sans-serif" font-size="92" font-weight="800">Prelude</text>
+  <text x="482" y="410" fill="#d9eaf7" font-family="system-ui,sans-serif" font-size="30">A standard library for sustainable scripting</text>
+</svg>

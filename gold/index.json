@@ -1,1 +1,21 @@
-{}
+{
+  "meta": {
+    "archive": false,
+    "draft": false,
+    "identifier": "gold",
+    "websites": [{"url": "https://github.com/jhwohlgemuth/gold", "description": "Source repository"}],
+    "media": [{"caption": "Gold project banner", "contentUrl": "https://raw.githubusercontent.com/jhwohlgemuth/bucket/main/gold/banner.svg", "width": 1200, "height": 630}],
+    "keywords": ["formal methods", "reproducible environments", "open source"],
+    "technology": ["docker", "jupyter", "python", "rocq"]
+  },
+  "title": "Gold",
+  "subtitle": "A containerized environment for working on provably correct software",
+  "sections": {
+    "mission": "Make rigorous software development environments reproducible and accessible from a browser or terminal.",
+    "challenge": "Formal methods and scientific software stacks are difficult to install, secure, reproduce and share across machines.",
+    "approach": ["Package browser-based development, notebooks and formal-method tools in versioned containers.", "Automate image construction, health checks and multi-architecture release workflows."],
+    "impact": ["Reduce setup time for reproducible software and formal-method experiments.", "Provide a portable environment for teaching, analysis and verified software development."],
+    "research": {"focus": "Reproducible environments for formal methods and sustainable scientific software", "areas": ["Formal methods", "Reproducible computing", "Scientific software"]}
+  },
+  "contact": {"jobTitle": "Project maintainer", "givenName": "Jason", "familyName": "Wohlgemuth", "identifier": "https://orcid.org/0000-0002-2057-9115", "email": "6383605+jhwohlgemuth@users.noreply.github.com", "telephone": "000-000-0000", "url": "https://github.com/jhwohlgemuth", "organization": "Independent open-source project"}
+}

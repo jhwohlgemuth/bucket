@@ -1,1 +1,21 @@
-{}
+{
+  "meta": {
+    "archive": false,
+    "draft": false,
+    "identifier": "purple",
+    "websites": [{"url": "https://github.com/jhwohlgemuth/purple", "description": "Source repository"}],
+    "media": [{"caption": "Purple project banner", "contentUrl": "https://raw.githubusercontent.com/jhwohlgemuth/bucket/main/purple/banner.svg", "width": 1200, "height": 630}],
+    "keywords": ["metadata", "data integration", "automation"],
+    "technology": ["typespec"]
+  },
+  "title": "Purple",
+  "subtitle": "An automated pipeline for integrating structured metadata",
+  "sections": {
+    "mission": "Automate the harvesting, validation, ingestion and integration of structured data from heterogeneous sources.",
+    "challenge": "Metadata arrives in different schemas and levels of completeness, making reliable integration difficult to repeat.",
+    "approach": ["Describe source and output contracts with TypeSpec schemas.", "Generate artifacts and run scripted transformations that preserve structured metadata."],
+    "impact": ["Make metadata integration workflows repeatable and inspectable.", "Reduce manual reshaping when combining structured information from multiple sources."],
+    "research": {"focus": "Schema-driven automation for structured metadata integration", "areas": ["Metadata", "Data integration", "Research data management"]}
+  },
+  "contact": {"jobTitle": "Project maintainer", "givenName": "Jason", "familyName": "Wohlgemuth", "identifier": "https://orcid.org/0000-0002-2057-9115", "email": "6383605+jhwohlgemuth@users.noreply.github.com", "telephone": "000-000-0000", "url": "https://github.com/jhwohlgemuth", "organization": "Independent open-source project"}
+}

@@ -1,1 +1,21 @@
-{}
+{
+  "meta": {
+    "archive": false,
+    "draft": false,
+    "identifier": "prelude",
+    "websites": [{"url": "https://github.com/jhwohlgemuth/pwsh-prelude", "description": "Source repository"}, {"url": "https://www.powershellgallery.com/packages/Prelude", "description": "PowerShell Gallery package"}],
+    "media": [{"caption": "PowerShell Prelude project banner", "contentUrl": "https://raw.githubusercontent.com/jhwohlgemuth/bucket/main/prelude/banner.svg", "width": 1200, "height": 630}],
+    "keywords": ["automation", "data analysis", "open source"],
+    "technology": ["powershell"]
+  },
+  "title": "PowerShell Prelude",
+  "subtitle": "A cross-platform PowerShell standard library for sustainable scripting",
+  "sections": {
+    "mission": "Extend PowerShell with reusable tools for automation, mathematics, data analysis and sustainable scientific scripting.",
+    "challenge": "PowerShell users repeatedly rebuild common utilities for data shaping, numerical work, text processing and automation.",
+    "approach": ["Provide a dependency-free module of tested functions, aliases, types and type extensions.", "Document practical examples spanning scripting, statistics, graph operations and linear algebra."],
+    "impact": ["Shorten reliable cross-platform automation scripts.", "Make analytical and scientific workflows easier to inspect, reuse and maintain."],
+    "research": {"focus": "Sustainable cross-platform scripting and scientific analysis with PowerShell", "areas": ["Applied mathematics", "Data analysis", "Software sustainability"]}
+  },
+  "contact": {"jobTitle": "Project maintainer", "givenName": "Jason", "familyName": "Wohlgemuth", "identifier": "https://orcid.org/0000-0002-2057-9115", "email": "6383605+jhwohlgemuth@users.noreply.github.com", "telephone": "000-000-0000", "url": "https://github.com/jhwohlgemuth", "organization": "Independent open-source project"}
+}
